@@ -1,0 +1,69 @@
+# Node.js specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Dependency directories
+.DS_Store
+.idea/
+.vscode/
+coverage/
+
+# Operating system files
+Thumbs.db
+*.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Build directories
+dist/
+build/
+
+# IDE-related files
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary files
+tmp/
+temp/
+
+# System files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# Test-related
+jest-test-results.json
+.vscode-test/
+
+# Lint
+.eslintcache
+
+# Security
+.vscode/settings.json
+
+# Deployment files
+*.zip
+*.tar.gz
+
+# Database
+*.sqlite
+*.sqlite3
+
+# Coverage results
+coverage/
